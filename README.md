@@ -1,4 +1,4 @@
-# CointMint-Truffle-SC
+# CointMint
 
 ### Run it on, Localhost:3000 And Connect it with MetaMask
 <hr>
